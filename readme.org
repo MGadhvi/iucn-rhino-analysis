@@ -1,0 +1,60 @@
+#+TITLE: Analysis of Rhino Observation Data from the IUCN
+#+AUTHOR: Manish Gadhvi
+#+DATE: <2025-01-10>
+#+DESCRIPTION: An academic project analyzing rhino observation data to understand population trends and conservation needs.
+
+* Abstract
+This project investigates rhino observation data sourced from the International Union for Conservation of Nature (IUCN) to analyze population trends, habitat usage, and threats to rhino survival. The findings aim to contribute to conservation strategies and policy-making.
+
+* Introduction
+The rhinoceros is a critically endangered species facing numerous threats, including poaching and habitat loss. Understanding the dynamics of rhino populations through observation data is essential for effective conservation efforts. This study utilizes data from the IUCN to explore trends and provide insights into rhino conservation.
+
+* Objectives
+- To analyze rhino observation data to identify population trends over time.
+- To assess the impact of environmental and anthropogenic factors on rhino populations.
+- To provide recommendations for conservation strategies based on data analysis.
+
+* Data Source
+The primary data for this analysis is obtained from the IUCN Red List of Threatened Species. The dataset includes:
+- Observation records of rhinos
+- Geographic locations of sightings
+- Population estimates
+- Threat assessments and conservation status
+
+* Methodology
+1. *Data Collection*
+   - The rhino observation dataset was downloaded from the IUCN website.
+   - Data cleaning and preprocessing were performed to ensure data quality.
+
+2. *Data Analysis*
+   - Exploratory Data Analysis (EDA) was conducted to identify patterns and trends.
+   - Statistical methods were employed to analyze population dynamics and assess correlations with environmental factors.
+
+3. *Visualization*
+   - Data visualizations were created using Python libraries such as Matplotlib and Seaborn to illustrate findings.
+   - Geographic distribution of rhino observations was mapped to highlight critical habitats.
+
+* Tools and Resources
+- *Jupyter Notebooks*: The analysis and visualizations are documented in Jupyter Notebook files, which provide an interactive environment for data exploration and presentation.
+- *Python Scripts*: Additional Python scripts are included for data preprocessing and analysis tasks, allowing for modular and reusable code.
+- *Visualizations*: All visualizations generated during the analysis are included in the Jupyter Notebooks and saved as separate image files for easy reference.
+
+* Results
+The results of the analysis will be presented in detail, including:
+- Trends in rhino populations over the years.
+- Correlation between habitat loss and population decline.
+- Visual representations of data findings.
+
+* Discussion
+The discussion will interpret the results in the context of existing literature on rhino conservation. Implications for policy and conservation strategies will be explored.
+
+* Conclusion
+This study aims to provide valuable insights into rhino population dynamics and contribute to ongoing conservation efforts. Recommendations for future research and conservation actions will be outlined.
+
+* References
+- International Union for Conservation of Nature (IUCN).
+- Additional relevant literature and sources.
+
+* Acknowledgments
+- IUCN for providing the rhino observation [[https://www.iucnredlist.org/search?taxonomies=102046&searchType=species][data]].
+- Contributors and researchers who supported this project.
