@@ -1,0 +1,29 @@
+# Emacs files
+*~           
+.#*          
+*.elc        
+*.org_archive/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb            
+
+# Python files
+__pycache__/       
+*.py[cod]          
+*.pyo              
+*.pyd              
+env/               
+venv/              
+*.egg-info/        
+dist/              
+build/             
+
+# Project directories
+data/           
+config/
+
+# Miscellaneous
+*.log           
+*.tmp           
+
