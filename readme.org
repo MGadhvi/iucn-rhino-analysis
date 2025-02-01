@@ -3,9 +3,6 @@
 #+DATE: <2025-01-10>
 #+DESCRIPTION: An academic project analyzing rhino observation data to understand population trends and conservation needs.
 
-* Abstract
-This project investigates rhino observation data sourced from the International Union for Conservation of Nature (IUCN) to analyze population trends, habitat usage, and threats to rhino survival. The findings aim to contribute to conservation strategies and policy-making.
-
 * Introduction
 The rhinoceros is a critically endangered species facing numerous threats, including poaching and habitat loss. Understanding the dynamics of rhino populations through observation data is essential for effective conservation efforts. This study utilizes data from the IUCN to explore trends and provide insights into rhino conservation.
 
